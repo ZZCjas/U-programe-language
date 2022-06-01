@@ -141,7 +141,7 @@ int main(int argc,char**argv)
 	color(7);
 	cout<<endl;
 	cout<<"--------------------------------\n";
-	cout<<"Process exited with return value "<<re<<endl<<"Press any key to continue. . .\n";
+	cout<<"Process exited with return value "<<re<<endl<<"Press any key to continue. . .";
 	getch();
 	return 0;
 }
